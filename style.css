@@ -346,6 +346,7 @@ main {
 		"phone dash dash";
 	gap: var(--spacing-lg);
 	padding: var(--spacing-lg) 0;
+	margin: var(--spacing-xl) 0;
 }
 
 #credit-card {
